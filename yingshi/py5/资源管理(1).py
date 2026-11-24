@@ -232,7 +232,7 @@ ONLINE_LIVE_SOURCES = [
     {
         "id": "siji111",
         "name": "✨ 四季直播",
-        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/%E5%9B%9B%E5%AD%A3.m3u",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/aniu38/jaychou123/refs/heads/main/%E5%9B%9B%E5%AD%A3.m3u",
         "cover": TV_COVER,
         "remarks": "siji111",
         "type": "m3u",
